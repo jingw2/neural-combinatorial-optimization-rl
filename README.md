@@ -1,5 +1,8 @@
 # Neural network/Reinforcement learning solves combinatorial optimization problem
 
+## TODO
+[ ] Cooperative MARL in logistic Network
+
 ## Reference
 * [Pointer Network](https://arxiv.org/abs/1506.03134)
 * [Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/pdf/1611.09940.pdf) [[Code here]](https://github.com/pemami4911/neural-combinatorial-rl-pytorch)
