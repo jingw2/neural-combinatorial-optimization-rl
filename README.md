@@ -1,7 +1,7 @@
 # Neural network/Reinforcement learning solves combinatorial optimization problem
 
 ## TODO
-[ ] Cooperative MARL in logistic Network
+* [ ] Cooperative MARL in logistic Network
 
 ## Reference
 * [Pointer Network](https://arxiv.org/abs/1506.03134)
